@@ -1,0 +1,5 @@
+# _config.yml
+
+# Handling Reading
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+input: GFM
